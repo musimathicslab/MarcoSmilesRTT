@@ -1,0 +1,281 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-100
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-77
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-74
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-69
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:20-66
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-78
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:20-75
+uses-feature#android.hardware.vr.headtracking
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-111
+	android:version
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:65-84
+	android:required
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:85-108
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-64
+uses-feature#android.hardware.vulkan.version
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-90
+	android:required
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:64-87
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-63
+uses-feature#android.hardware.microphone
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-87
+	android:required
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:60-84
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-59
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-88
+	android:required
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:61-85
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-99
+	android:required
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:72-96
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:3-108
+	android:required
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:81-105
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:17-80
+application
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:3-39:17
+	android:extractNativeLibs
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:145-177
+	android:label
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-48
+	android:icon
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:49-80
+	android:allowBackup
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:81-108
+	android:networkSecurityConfig
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:178-233
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:109-144
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-89
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:65-86
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-64
+meta-data#com.samsung.android.vr.application.mode
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-97
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:71-94
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-70
+meta-data#com.oculus.ossplash.background
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-103
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:62-100
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-61
+meta-data#com.oculus.telemetry.project_guid
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-120
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:65-117
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-64
+meta-data#com.oculus.supportedDevices
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-108
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:59-105
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-58
+meta-data#unity.splash-mode
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-69
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:49-66
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:5-74
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:51-71
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:16-50
+meta-data#unity.launch-fullscreen
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:5-78
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:55-75
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:16-54
+meta-data#unity.render-outside-safearea
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:5-84
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:61-81
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:16-60
+meta-data#notch.config
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:5-81
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:44-78
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:16-43
+meta-data#unity.auto-report-fully-drawn
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-84
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:61-81
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-60
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-33:16
+	android:screenOrientation
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:334-371
+	android:excludeFromRecents
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:276-309
+	android:launchMode
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:190-221
+	android:hardwareAccelerated
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:407-442
+	android:exported
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:310-333
+	android:resizeableActivity
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:372-406
+	android:configChanges
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:80-189
+	android:theme
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:15-79
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:222-275
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:7-30:23
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:19-66
+category#com.oculus.intent.category.VR
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:9-66
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:19-63
+action#android.intent.action.MAIN
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:9-61
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:17-58
+meta-data#com.oculus.vr.focusaware
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:7-81
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:58-78
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:18-57
+meta-data#notch_support
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:7-70
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:47-67
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:18-46
+meta-data#com.unity.xr.oculus.LowOverheadMode
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:5-91
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:67-88
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:16-66
+meta-data#com.unity.xr.oculus.LateLatching
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:5-88
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:64-85
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:16-63
+meta-data#com.unity.xr.oculus.LateLatchingDebug
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:5-93
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:69-90
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:16-68
+meta-data#com.oculus.handtracking.frequency
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:5-87
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:65-84
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:16-64
+meta-data#com.oculus.handtracking.version
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:5-86
+	android:value
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:63-83
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:16-62
+uses-feature#oculus.software.handtracking
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:3-88
+	android:required
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:61-85
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:17-60
+uses-permission#com.oculus.permission.HAND_TRACKING
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:41:3-73
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:41:20-70
+uses-feature#oculus.software.overlay_keyboard
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:42:3-92
+	android:required
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:42:65-89
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:42:17-64
+uses-permission#com.oculus.permission.USE_ANCHOR_API
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:43:3-74
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:43:20-71
+uses-feature#com.oculus.feature.PASSTHROUGH
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:44:3-90
+	android:required
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:44:63-87
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:44:17-62
+uses-feature#com.oculus.feature.RENDER_MODEL
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:45:3-66
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:45:17-63
+uses-permission#com.oculus.permission.RENDER_MODEL
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:46:3-72
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:46:20-69
+uses-feature#com.oculus.feature.VIRTUAL_KEYBOARD
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:47:3-95
+	android:required
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:47:68-92
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:47:17-67
+uses-permission#com.oculus.permission.USE_SCENE
+ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:48:3-69
+	android:name
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:48:20-66
+uses-sdk
+INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Masaniello\Unity\MarcoSmilesClient\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
